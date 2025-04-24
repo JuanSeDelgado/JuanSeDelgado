@@ -26,7 +26,7 @@
 
 ### 💼 About Me
 
-✔ I love designing smooth and develop interfaces with **Figma**, **React.js** and **Flutter**  
+✔ I love designing and develop smooth  interfaces with **Figma**, **React.js** and **Flutter**  
 ✔ I believe in clean code, good usability, and cross-functional collaboration  
 ✔ Always open to collaboration, especially around **UI/UX**, **frontend**, or **security-focused projects**  
 ✔ Fun fact: I find debugging as satisfying as designing an interface that *just works*
