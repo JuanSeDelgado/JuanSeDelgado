@@ -2,7 +2,7 @@
 </p>
 <hr>
 <h1 align="center">Hi , I'm Juan Sebastián Orejuela</h1>
-<h3 align="center">Full Stack Developer | UI/UX Enthusiast | Security Specialist in the Making</h3>
+<h3 align="center">Full Stack Developer | UI/UX Enthusiast | Security Specialist </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-sebastian-orejuela-desarrollador-fullstack/" target="_blank">
@@ -26,8 +26,7 @@
 
 ### 💼 About Me
 
-✔ I’m currently exploring **Node.js**, **Serverless architectures**, **Redis**, and **AWS**  
-✔ I love designing smooth interfaces with **React.js**, **Figma**, and **Flutter**  
+✔ I love designing smooth and develop interfaces with **Figma**, **React.js** and **Flutter**  
 ✔ I believe in clean code, good usability, and cross-functional collaboration  
 ✔ Always open to collaboration, especially around **UI/UX**, **frontend**, or **security-focused projects**  
 ✔ Fun fact: I find debugging as satisfying as designing an interface that *just works*
