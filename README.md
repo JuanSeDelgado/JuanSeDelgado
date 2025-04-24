@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Juan Sebastián Orejuela</h1>
+<h1 align="center">Hi , I'm Juan Sebastián Orejuela</h1>
 <h3 align="center">Full Stack Developer | UI/UX Enthusiast | Security Specialist in the Making</h3>
 
 <p align="center">
@@ -22,7 +22,6 @@
 
 ### 💼 About Me
 
-✔ Pronouns: ***He/Him***  
 ✔ I’m currently exploring **Node.js**, **Serverless architectures**, **Redis**, and **AWS**  
 ✔ I love designing smooth interfaces with **React.js**, **Figma**, and **Flutter**  
 ✔ I believe in clean code, good usability, and cross-functional collaboration  
@@ -33,27 +32,16 @@
 
 ### 🛠 Languages & Tools I Use
 
-<!-- Customize icons here -->
-<code><img height="50" src="your-custom-icon-path/html5.svg"></code>
-<code><img height="50" src="your-custom-icon-path/css3.svg"></code>
-<code><img height="50" src="your-custom-icon-path/javascript.svg"></code>
-<code><img height="50" src="your-custom-icon-path/react.svg"></code>
-<code><img height="50" src="your-custom-icon-path/nodejs.svg"></code>
-<code><img height="50" src="your-custom-icon-path/flutter.svg"></code>
-<code><img height="50" src="your-custom-icon-path/figma.svg"></code>
-<code><img height="50" src="your-custom-icon-path/git.svg"></code>
-<code><img height="50" src="your-custom-icon-path/aws.svg"></code>
+#### 🎨 Design & Prototyping
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://skillicons.dev)
 
----
+#### 💻 Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
-### 📈 GitHub Stats
+#### 🖥 Backend & Tools in Progress
+[![My Skills](https://skillicons.dev/icons?i=nodejs,aws,redis,git,github)](https://skillicons.dev)
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true" alt="GitHub Stats" width="410"/></p>
-
----
+#### 📱 Mobile Development
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
 📝 *This profile README was adapted from a design by [Akash Chowrasia](https://github.com/Akash-chowrasia). Last updated on: April 2025*
