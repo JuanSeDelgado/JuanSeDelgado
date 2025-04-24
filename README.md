@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi , I'm Juan Sebastián Orejuela</h1>
 <h3 align="center">Full Stack Developer | UI/UX Enthusiast | Security Specialist in the Making</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/juan-sebastian-orejuela-desarrollador-frontend/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juan orejuela" height="30" width="40" /></a>
-<a href = "mailto:orejuelajuansebastian@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/juan-sebastian-orejuela-desarrollador-fullstack/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="mailto:orejuelajuansebastian@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+  </a>
 </p>
+
 
 <p align="center">
   <em>
@@ -33,15 +37,14 @@
 ### 🛠 Languages & Tools I Use
 
 #### 🎨 Design & Prototyping
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
 
 #### 💻 Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
 #### 🖥 Backend & Tools in Progress
-[![My Skills](https://skillicons.dev/icons?i=nodejs,aws,redis,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,aws,git,github)](https://skillicons.dev)
 
 #### 📱 Mobile Development
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
-📝 *This profile README was adapted from a design by [Akash Chowrasia](https://github.com/Akash-chowrasia). Last updated on: April 2025*
